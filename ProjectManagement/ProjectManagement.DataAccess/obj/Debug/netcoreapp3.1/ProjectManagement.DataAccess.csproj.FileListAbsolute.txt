@@ -1,0 +1,11 @@
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\bin\Debug\netcoreapp3.1\ProjectManagement.DataAccess.deps.json
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\bin\Debug\netcoreapp3.1\ProjectManagement.DataAccess.dll
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\bin\Debug\netcoreapp3.1\ProjectManagement.DataAccess.pdb
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\obj\Debug\netcoreapp3.1\ProjectManagement.DataAccess.AssemblyInfoInputs.cache
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\obj\Debug\netcoreapp3.1\ProjectManagement.DataAccess.AssemblyInfo.cs
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\obj\Debug\netcoreapp3.1\ProjectManagement.DataAccess.dll
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\obj\Debug\netcoreapp3.1\ProjectManagement.DataAccess.pdb
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\obj\Debug\netcoreapp3.1\ProjectManagement.DataAccess.csprojAssemblyReference.cache
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\bin\Debug\netcoreapp3.1\ProjectManagement.Models.dll
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\bin\Debug\netcoreapp3.1\ProjectManagement.Models.pdb
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.DataAccess\obj\Debug\netcoreapp3.1\ProjectManagement.DataAccess.csproj.CopyComplete

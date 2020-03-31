@@ -1,0 +1,7 @@
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\bin\Debug\netcoreapp3.1\ProjectManagement.Models.deps.json
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\bin\Debug\netcoreapp3.1\ProjectManagement.Models.dll
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\bin\Debug\netcoreapp3.1\ProjectManagement.Models.pdb
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\obj\Debug\netcoreapp3.1\ProjectManagement.Models.AssemblyInfoInputs.cache
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\obj\Debug\netcoreapp3.1\ProjectManagement.Models.AssemblyInfo.cs
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\obj\Debug\netcoreapp3.1\ProjectManagement.Models.dll
+D:\Cytel\EastSolaris\ProjectManagement\ProjectManagement.Models\obj\Debug\netcoreapp3.1\ProjectManagement.Models.pdb
